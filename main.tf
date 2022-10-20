@@ -12,10 +12,10 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "gangul"
+    organization = "****"
 
     workspaces {
-      name = "evolve"
+      name = "****"
     }
   }
 }
